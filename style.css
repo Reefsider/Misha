@@ -1,0 +1,26 @@
+header{
+    display:flex;
+    justify-content:center;
+    background-color: #ccc;
+    color:red;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    font-weight: 100;
+}
+#image{
+    display:block;
+    height:auto;
+    max-width: 100%;
+    margin:0 auto;
+}
+#image-caption{
+    text-align:center;
+    background-color:#ccc;
+    margin-top:0;
+}
+
+a:hover{
+    color:green;
+}
+
+
